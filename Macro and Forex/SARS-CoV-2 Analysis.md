@@ -28,3 +28,7 @@ Total World Cases:167,446
 US Cases: 3,499
 See JHU map here: https://coronavirus.jhu.edu/map.html (these are more current than their downloadable data).
 
+**3/20**
+
+Total World cases: 258,845
+US Cases: 16,067	
